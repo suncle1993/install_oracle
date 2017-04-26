@@ -1,0 +1,13 @@
+oracle.install.responseFileVersion=/oracle/install/rspfmt_dbinstall_response_schema_v11_2_0
+oracle.install.option=INSTALL_DB_SWONLY
+UNIX_GROUP_NAME=oinstall
+SELECTED_LANGUAGES=en
+oracle.install.db.InstallEdition=EE
+oracle.install.db.isCustomInstall=false
+oracle.install.db.DBA_GROUP=dba
+oracle.install.db.OPER_GROUP=oper
+DECLINE_SECURITY_UPDATES=true
+INVENTORY_LOCATION=/oracle/app/oraInventory
+ORACLE_BASE=/oracle/app/oracle
+ORACLE_HOME=/oracle/app/oracle/product/11.2.0/db_1
+ORACLE_HOSTNAME=host-10-199-129-75
